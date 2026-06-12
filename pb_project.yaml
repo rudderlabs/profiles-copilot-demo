@@ -1,6 +1,6 @@
 # Project name
 name: profiles_demo
-# Project's yaml schema version
+# Project's yaml schema version 123
 
 schema_version: 92
 # WH Connection Profile to use.
