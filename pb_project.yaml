@@ -22,8 +22,8 @@ entities:
       using_ids:
         - id: email
           name: customer_profile_by_email
-        - id: device_id
-          name: customer_profile_by_device_id
+        # - id: device_id
+        #  name: customer_profile_by_device_id
 id_types:
   - name: user_id
   - name: shopify_customer_id
